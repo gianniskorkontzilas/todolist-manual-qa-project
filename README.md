@@ -30,10 +30,12 @@ Total Defects Reported: 4
 - Firefox (Testing Browser)
 - Edge (Testing Browser)
 - Safari (Testing Browser)
+  
 ## 📂 Project Structure
 - Test_Cases → Contains detailed test case documentation
 - Defect_Reports → Contains reported bugs with severity & priority
-- Screenshots → Evidence of identified defects
-
+- Defects → Evidence of identified defects
+- Screenshots
+  
 ## 👤 Author
 (Giannis Korkontzilas)
